@@ -264,6 +264,7 @@ Main:GuiSettings({
 <void> Slider:SetMax(<number[inf]>)
 <number> Slider:GetMax(<void>)
 <number> Slider:GetValue(<void>)
+<number> Slider:SetValue(<void>)
 <void> Slider:Destroy(<void>)
 
 <void> Dropdown:SetText(<string[any]>)
